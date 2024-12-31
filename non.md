@@ -14,4 +14,5 @@ By clicking through the following agreement via your wallet that owns this NFT y
 9. Should any of these terms be found to be unenforceable, the others shall remain in force.
 10. In consideration of and in order to order to accept this offer and fulfil the contract that doing so instantiates you agree to be bound by the following agreements in perpetuity:  
 a) **Non-Disclosure:** you shall not disclose any aspect of the artwork that the artwork specifies to you.  
-b) **Non-Disparagement:** you shall not defame, criticize, or disparage any aspect of the artwork that the artwork specifies to you.
+b) **Non-Disparagement:** you shall not defame, criticize, or disparage any aspect of the artwork that the artwork specifies to you.  
+c) **Non-Competition:** you shall not seek to create an nft or service contract that competes with this artwork.
